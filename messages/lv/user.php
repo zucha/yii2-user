@@ -85,7 +85,7 @@ return [
     'Hello' => 'Sveiki',
     'If you already registered, sign in and connect this account on settings page' => 'Ja jau esat reģistrēti, autorizējaties un pieslēdziet kontu uzstādījumu sadaļā',
     'If you cannot click the link, please try pasting the text into your browser' => 'Ja ar klikšķi nevarat atvert saiti, pārkopējiet to pārlūkā',
-    'If you did not make this request you can ignore this email' => 'Ja nēesat veikuši šādu pieprasījumu, ignorējiet šo vēstuli',
+    'If you did not make this request you can ignore this email' => 'Ja neesat veikuši šādu pieprasījumu, ignorējiet šo vēstuli',
     'In order to complete your registration, please click the link below' => 'Lai pabeigtu reģistrāciju, atveriet zemāk norādīto interneta adresi',
     'In order to complete your request, please click the link below' => 'Lai pabeigtu pieprasījuma apstrādi, atveriet zemāk norādīto interneta adresi',
     'Information' => 'Informācija',
